@@ -1,0 +1,19 @@
+{
+  "name": "ratingsandreviews-api-1",
+  "version": "1.0.0",
+  "description": "database for FEC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merwhite11/RatingsAndReviews-api-1.git"
+  },
+  "author": "Meredith White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merwhite11/RatingsAndReviews-api-1/issues"
+  },
+  "homepage": "https://github.com/merwhite11/RatingsAndReviews-api-1#readme"
+}
